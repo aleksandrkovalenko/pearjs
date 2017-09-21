@@ -1,5 +1,8 @@
 # PeerJS Changelog
 
+## Version 0.3.15
+* Path for pc is undefined error on firefox 40+ bug
+
 ## Version 0.3.14
 * Patch for #246, which started as of Chrome 38.
 
