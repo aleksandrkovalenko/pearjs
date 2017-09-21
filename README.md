@@ -10,8 +10,17 @@ PeerJS provides a complete, configurable, and easy-to-use peer-to-peer API built
 **Include the library**
 
 ```html
-<script src="http://cdn.peerjs.com/0.3/peer.js"></script>
+<script src="[your_path]/peer.js"></script>
 ```
+
+or
+
+npm install https://github.com/Simplici/pearjs/tarball/master
+
+```javascript
+import Peer from 'pearjs'
+```
+
 
 **Create a Peer**  
 Get a [free API key](http://peerjs.com/peerserver). Your id only needs to be unique to the namespace of your API key.
