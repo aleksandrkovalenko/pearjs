@@ -1,13 +1,13 @@
 {
-  "name": "peerjs",
+  "name": "pearjs",
   "version": "0.3.15",
-  "description": "PeerJS client",
+  "description": "unofficial PeerJS client",
   "main": "./lib/peer.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/peers/peerjs.git"
+    "url": "git://github.com/Simplici/pearjs.git"
   },
-  "author": "Michelle Bu, Eric Zhang",
+  "author": "Michelle Bu, Eric Zhang, Hao XU",
   "license": "MIT",
   "scripts": {
     "prepublish": "./node_modules/.bin/grunt"
