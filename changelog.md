@@ -1,5 +1,8 @@
 # PeerJS Changelog
 
+## Version 0.3.16
+* Use webrtc-adapter to improve browser compatibility
+
 ## Version 0.3.15
 * Path for pc is undefined error on firefox 40+ bug
 
